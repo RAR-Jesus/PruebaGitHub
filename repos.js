@@ -1,2 +1,2 @@
 console.log("primero");
-ole.log("segundo");
+console.log("segundo");
